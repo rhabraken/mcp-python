@@ -43,7 +43,7 @@ PostgreSQL database using Claude Desktop.
 1. **Run Docker Compose**  
    Ensure Docker Compose is installed and run:
    ```bash
-   docker-compose up
+   docker-compose up -d
    ```
    - This command will launch a PostgreSQL database on `localhost:5432` and
      populate it with dummy data.
