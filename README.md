@@ -3,7 +3,9 @@
 ![Talk with Your Database Using MCP](image.png)
 
 This guide explains how to set up and run your MCP server to interact with your
-PostgreSQL database using Claude Desktop.
+PostgreSQL database using Claude Desktop. It should also work with MySQL,
+MariaDB, SQLite as it uses sqlalchemy under the hood. This project is build on
+top of https://github.com/runekaagaard/mcp-alchemy
 
 > **Note:** This guide assumes you have a basic understanding of Docker,
 > environment variables, and CLI usage.
