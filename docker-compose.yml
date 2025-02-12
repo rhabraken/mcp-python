@@ -21,6 +21,7 @@ services:
     depends_on:
       - db
     env_file: .env
+    container_name: app
 
 volumes:
   postgres_data:
