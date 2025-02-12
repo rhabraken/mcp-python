@@ -1,6 +1,6 @@
 # MCP-Python
 
-First copy the
+First copy the `.env.example` and rename the copy to `.env`
 
 Run with
 
