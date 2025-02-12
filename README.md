@@ -15,8 +15,8 @@ PostgreSQL database using Claude Desktop.
 - **Docker Compose**:
   [Installation instructions](https://docs.docker.com/compose/install/)
 - **Claude Desktop**: [Download here](https://claude.ai/download)
-- **uv**: A lightweight process runner. If not installed, follow the
-  instructions below.
+- **uv**: A modern, high-performance Python package manager. If not installed,
+  follow the instructions below.
 
 ---
 
