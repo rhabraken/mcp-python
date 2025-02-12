@@ -25,7 +25,7 @@ Save this in your mcp server config:
       "command": "uv",
       "args": [
         "--directory",
-        "/directory/where/you/installed/it/app/",
+        "/directory/where/this/app/is/located/app/",
         "run",
         "server.py"
       ],
@@ -37,4 +37,7 @@ Save this in your mcp server config:
 }
 ```
 
-Then download claude desktop and run it.
+If uv is installed somewhere else make usre to replace the `uv` command in the
+json with the location where `uv` is installed.
+
+Next step is to download claude desktop and run it.
